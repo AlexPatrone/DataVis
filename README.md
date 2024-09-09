@@ -44,17 +44,25 @@ This dashboard gives the user a broad look at the raw numbers and trends for the
 This visualization displays a comparison between Rural and Urban populations. Through viewing the trend line, the user will notice that regions with high rural populations fall above the trendline, while regions with high urban populations fall below. Emissions are onced again displayed via a gradient color scheme, while total population is described via size
 
 ## Findings
-1. How have global emissions changed overtime, in terms of amount, type, and location?
+
 Through the Global emission dashboard's Yearly Category Emissions panel,  we find that, over the 3 decades recorded by the data, Chemical Product emissions have greatly increased overtime, and seem to be a leading cause for rising emissions in the current day. By viewing the Global Emissions count, compared from 1990 and 2020, we would see that global emissions have nearly doubled, from 6 million kilotones to over 12 million kilotones. This is due to increased usages of artificial pesticides and fertilized used as the global demand for food continues to rise.
 ![image](https://github.com/user-attachments/assets/07acaa56-80e0-4f2a-9726-084479651ead)
 
 Additionally, it is easy to note that the highest emissions producers as of 2020 are China, India, the US, and Brazil. It is important to note that India, China, and Brazil are currently all members of the intergovernmental organization BRICS, which was intially formed to better ease cooperation between Brazil, Russia, India, China, and South Africa. Since, many other countries who are big players in the world ecnomomy have joined, such as Egypt, Ethiopia, and the UAE.
 ![image](https://github.com/user-attachments/assets/d0eb62ba-9b01-41f4-81d3-f9c8b7b05750)
 
-2. How does a country's population demographic alter its emissions?
-  Looking over the population comparison dashboard provides some interesting insights. In 1900, we see that key emissions creaters in the modern day, India and China, are both outliers in terms of population, and both far from our trend line, meaning their populations are primarily rural
+  Looking over the population comparison dashboard provides some interesting insights. In 1900, we see that key emissions creaters in the modern day, India and China, are both outliers in terms of population, and both far from our trend line, meaning their populations are primarily rural.
 ![image](https://github.com/user-attachments/assets/8d145b48-6b9a-4573-bfdc-b09f2afe6a23)
 
-5. Which countries are producing the greatest number of emissions, and what patterns do these countries follow?
+  However, as we begin to move into the modern day in 2020, we see China having an overwhelming population rise in terms of Urban proportions. This is separate from out other outlier India, whose populations increase overall, but still maintain a relatively rural proportion.
+![image](https://github.com/user-attachments/assets/e6abbafd-4971-4b3b-9ffe-4a955eb6aff8)
+
+  Stepping away from outliers, we see another interesting trend. In 1990, most of the world's population skews with higher rural population, while the USSR, US, Brazil, and Japan are standouts in terms of Urbanites
+  ![image](https://github.com/user-attachments/assets/e3f72e47-6685-4860-a6db-be3407f0dddc)
+
+  In 2020 though, we see many population boom in countries like Pakistan, Bangledesh, and Nigera. Some countries, like Indonesia, follow a similar vien of urbanization like China, in accordance with increased emissions.
+  ![image](https://github.com/user-attachments/assets/a2cafca8-cec7-4c9b-b81d-a9698ada9d5d)
+
+
 ## Conclusions
 As countries, such as those in BRICS begin to modernize, the world is forced to make difficult decisions. In countries where increased productivity, industry, and economic growth bring bettering economic conditions, they too bring an increased amount of global emissions. These emissions are sure to bring disasterous climate change if left unchecked, but would it be right for countries who are already modernized to shun those who are making strides in doing so? These are questions that organizations such as the UN and the BRICS organization themselves are asking in the modern day. 
